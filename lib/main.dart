@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'navigation/bottom_nav.dart'; // Import the bottom navigation
+import 'navigation/bottom_nav.dart';
 
 Future<void> main() async {
   await initialize(); // Initialize app settings
