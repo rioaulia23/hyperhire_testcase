@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       designSize: const Size(375, 812),
       child: MaterialApp(
-        title: 'Flutter Test App',
+        title: 'Testcase Hypehire',
         theme: ThemeData(
           splashColor: Colors.transparent,
           highlightColor: Colors.transparent,
